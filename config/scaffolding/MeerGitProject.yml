@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MeerGitProject
+  gitServerName: MeerGH
+  gitUrl: https://github.com/Meer-Arfath-IBM
+  gitUsername: Meer-Arfath-IBM
+  gitBranch: main
